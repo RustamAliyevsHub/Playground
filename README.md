@@ -4,7 +4,7 @@ Skills: Python
 
 | Project Name | Description | Libraries |
 |---|---|---|
-| 1️⃣ [Fibonacci sequence](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Calculate a sequence of Fibonacci numbers of selected length | none |   
+| 1️⃣ [Fibonacci sequence](https://github.com/RustamAliyevsHub/Playground/blob/main/Fibonacci%20Sequence.ipynb) | Calculate a sequence of Fibonacci numbers of selected length | none |   
 | 2️⃣ [PI](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Calculate PI number with selected precision | none |  
 | 🎬 [Marketing Analytics Case Study - Ongoing](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md)  |  |  | 
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
