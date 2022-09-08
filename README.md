@@ -6,7 +6,7 @@ Skills: Python
 |---|---|---|
 | 1️⃣ [Fibonacci sequence](https://github.com/RustamAliyevsHub/Playground/blob/main/Fibonacci%20Sequence.ipynb) | Calculate a sequence of Fibonacci numbers of selected length with Iteration | none |   
 | 2️⃣ [PI](https://github.com/RustamAliyevsHub/Playground/blob/main/PI.ipynb) | Calculate PI number with selected precision using Leibniz’s formula | none |  
-| 3️⃣ [Worlds Top Economies](https://github.com/RustamAliyevsHub/Playground/blob/main/Worlds_Top_Economies.ipynb)  |  |  | 
+| 3️⃣ [Worlds Top Economies](https://github.com/RustamAliyevsHub/Playground/blob/main/Worlds_Top_Economies.ipynb)  | Basic visualization on world top economies | matplotlib, pandas, requests |
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
 | 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  |  |  
 | 🥑[Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) |  |  |  
